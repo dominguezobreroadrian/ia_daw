@@ -1,9 +1,17 @@
 # Práctica IA (RA4 · a) — Automatización y optimización
 
 ## 1) Proceso elegido
-- Nombre del proceso:
-- Contexto (empresa/servicio web/IT):
+- Nombre del proceso: Gestión automática de tickets de soporte IT
+- Contexto (empresa/servicio web/IT): Empresa tecnológica de desarrollo SaaS
 - Rol/es implicados:
+
+  - Usuario/cliente
+
+  - Agente de soporte nivel 1
+
+  - Técnico especialista nivel 2
+
+  - Responsable de IT
 
 ## 2) ANTES (sin IA)
 - Pasos (5–7):
