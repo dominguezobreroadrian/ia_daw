@@ -22,15 +22,15 @@
   5. Actualiza el stock manualmente.
   6. El supervisor verifica inconsistencias.
      
-- Tiempo aproximado por caso: 15–20 minutos solo en clasificación y asignación inicial.
+- Tiempo aproximado por caso: 3–5 minutos por palé recibido.
 - Problemas / cuellos de botella:
-  - Retrasos en horas punta.
+  - Errores humanos en conteo.
 
-  - Errores humanos en la clasificación.
+  - Productos mal registrados.
 
-  - Prioridades mal asignadas.
+  - Retrasos en horas pico.
 
-  - Sobrecarga del equipo de nivel 1.   
+  - Dificultad para detectar productos dañados.
 
 ## 3) DESPUÉS (con IA)
 - ¿Qué automatiza la IA?
