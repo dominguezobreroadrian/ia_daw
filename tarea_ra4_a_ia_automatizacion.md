@@ -34,9 +34,18 @@
 
 ## 3) DESPUÉS (con IA)
 - ¿Qué automatiza la IA?
+  - Reconocimiento automático de productos mediante cámaras.
+  - Conteo automático de unidades.
+  - Detección de daños en embalajes.
+  - Actualización automática del inventario en el ERP.
 - ¿Qué queda para humanos?
+  - Supervisión de alertas.
+  - Gestión de incidencias complejas.
+  - Control de calidad final.
 - Datos necesarios (tipos de datos, sin datos personales):
+  - 
 - Modelo/técnica (NLP, clasificación, recomendación, visión, etc.):
+  - 
 
 ## 4) Optimización (mejora medible)
 Define 3 métricas con valores antes/después:
