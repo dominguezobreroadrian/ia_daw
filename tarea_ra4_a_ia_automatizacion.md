@@ -68,20 +68,20 @@ Define 3 métricas con valores antes/después:
   - Después: 98% precisión tras entrenamiento del modelo
 
 ## 5) Diagrama del flujo (ASCII o Mermaid)
-(Pega aquí el diagrama)
-Recepción mercancía
-        │
-        ▼
-Cámara captura imagen
-        │
-        ▼
-IA detecta y cuenta productos
-        │
-        ├── Detecta daños
-        └── Actualiza ERP
-                │
-                ▼
-          Supervisor revisa alertas
+```mermaid
+flowchart TD
+A[Recepción de mercancía] --> B[Cámara captura imágenes]
+B --> C[IA analiza imágenes]
+C --> D[Identifica productos (SKU)]
+C --> E[Cuenta unidades automáticamente]
+C --> F[Detecta daños en embalaje]
+D --> G[Actualiza inventario en ERP]
+E --> G
+F --> H[Genera alerta si hay incidencias]
+G --> I[Supervisor revisa alertas]
+H --> I
+I --> J[Confirmación final del registro]
+```
 ## 6) Riesgos y mitigación
 - Riesgo 1: Fallos en reconocimiento por mala iluminación.
 - Mitigación 1: Instalación de iluminación controlada y reentrenamiento con distintos escenarios.
