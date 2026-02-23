@@ -1,26 +1,26 @@
 # Práctica IA (RA4 · a) — Automatización y optimización
 
 ## 1) Proceso elegido
-- Nombre del proceso: Gestión automática de tickets de soporte IT
-- Contexto (empresa/servicio web/IT): Empresa tecnológica de desarrollo SaaS
+- Nombre del proceso: Control automático de inventario en almacén
+- Contexto (empresa/servicio web/IT): Empresa de logística y distribución de comercio electrónico
 - Rol/es implicados:
 
-  - Usuario/cliente
+  - Operario de almacén
 
-  - Agente de soporte nivel 1
+  - Supervisor de inventario
 
-  - Técnico especialista nivel 2
+  - Responsable de logística
 
-  - Responsable de IT
+  - Sistema ERP
 
 ## 2) ANTES (sin IA)
 - Pasos (5–7):
-  1. El cliente envía un email o formulario con su incidencia.
-  2. Un agente revisa manualmente el mensaje.
-  3. Clasifica el tipo de problema (red, acceso, software, facturación…).
-  4. Asigna prioridad según su criterio.
-  5. Redirige el ticket al departamento correspondiente.
-  6. El técnico analiza y responde
+  1. El operario recibe mercancía.
+  2. Escanea manualmente cada producto con lector de código de barras.
+  3. Introduce cantidades en el sistema ERP.
+  4. Revisa visualmente posibles daños.
+  5. Actualiza el stock manualmente.
+  6. El supervisor verifica inconsistencias.
      
 - Tiempo aproximado por caso: 15–20 minutos solo en clasificación y asignación inicial.
 - Problemas / cuellos de botella:
