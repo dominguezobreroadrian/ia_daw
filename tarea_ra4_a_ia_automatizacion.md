@@ -70,17 +70,17 @@ Define 3 métricas con valores antes/después:
 ## 5) Diagrama del flujo (ASCII o Mermaid)
 ```mermaid
 flowchart TD
-A[Recepción de mercancía] --> B[Cámara captura imágenes]
-B --> C[IA analiza imágenes]
-C --> D[Identifica productos (SKU)]
-C --> E[Cuenta unidades automáticamente]
-C --> F[Detecta daños en embalaje]
+A[Recepcion de mercancia] --> B[Camara captura imagenes]
+B --> C[IA analiza imagenes]
+C --> D[Identifica productos SKU]
+C --> E[Cuenta unidades automaticamente]
+C --> F[Detecta danos en embalaje]
 D --> G[Actualiza inventario en ERP]
 E --> G
 F --> H[Genera alerta si hay incidencias]
 G --> I[Supervisor revisa alertas]
 H --> I
-I --> J[Confirmación final del registro]
+I --> J[Confirmacion final del registro]
 ```
 ## 6) Riesgos y mitigación
 - Riesgo 1: Fallos en reconocimiento por mala iluminación.
