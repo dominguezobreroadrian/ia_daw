@@ -69,12 +69,24 @@ Define 3 métricas con valores antes/después:
 
 ## 5) Diagrama del flujo (ASCII o Mermaid)
 (Pega aquí el diagrama)
-
+Recepción mercancía
+        │
+        ▼
+Cámara captura imagen
+        │
+        ▼
+IA detecta y cuenta productos
+        │
+        ├── Detecta daños
+        └── Actualiza ERP
+                │
+                ▼
+          Supervisor revisa alertas
 ## 6) Riesgos y mitigación
-- Riesgo 1:
-- Mitigación 1:
-- Riesgo 2:
-- Mitigación 2:
+- Riesgo 1: Fallos en reconocimiento por mala iluminación.
+- Mitigación 1: Instalación de iluminación controlada y reentrenamiento con distintos escenarios.
+- Riesgo 2: Dependencia tecnológica ante caídas del sistema.
+- Mitigación 2: Sistema manual de respaldo y copias de seguridad automáticas.
 
 ## 7) Fuente oficial
-- Enlace: 
+- Enlace: https://www.sap.com/products/scm/extended-warehouse-management.html
