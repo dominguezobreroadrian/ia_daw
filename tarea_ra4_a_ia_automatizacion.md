@@ -15,13 +15,22 @@
 
 ## 2) ANTES (sin IA)
 - Pasos (5–7):
-  1.
-  2.
-  3.
-  4.
-  5.
-- Tiempo aproximado por caso:
+  1. El cliente envía un email o formulario con su incidencia.
+  2. Un agente revisa manualmente el mensaje.
+  3. Clasifica el tipo de problema (red, acceso, software, facturación…).
+  4. Asigna prioridad según su criterio.
+  5. Redirige el ticket al departamento correspondiente.
+  6. El técnico analiza y responde
+     
+- Tiempo aproximado por caso: 15–20 minutos solo en clasificación y asignación inicial.
 - Problemas / cuellos de botella:
+  - Retrasos en horas punta.
+
+  - Errores humanos en la clasificación.
+
+  - Prioridades mal asignadas.
+
+  - Sobrecarga del equipo de nivel 1.   
 
 ## 3) DESPUÉS (con IA)
 - ¿Qué automatiza la IA?
