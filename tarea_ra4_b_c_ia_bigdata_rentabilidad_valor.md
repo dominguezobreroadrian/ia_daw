@@ -63,20 +63,33 @@ F --> G[Decisión Reposición]
 G --> H[KPIs y Dashboard]
 ```
 ## 7) Riesgos y mitigación
-Riesgo 1:
-- Mitigación 1:
+Riesgo 1: Datos incompletos o sesgados.
+- Mitigación 1: Auditorías periódicas y validación cruzada de fuentes.
 
-Riesgo 2:
-- Mitigación 2:
+Riesgo 2: Dependencia excesiva del modelo (errores de predicción).
+- Mitigación 2: Supervisión humana y revisión semanal de anomalías.
 
 ## 8) Valoración (criterio c): importancia presente y futura de la IA (10–15 líneas)
 - Importancia actual (hoy):
+    - La IA es actualmente un elemento estratégico en el sector retail. Empresas como Zara utilizan modelos predictivos para optimizar inventarios, ajustar la producción y responder rápidamente a cambios en la             demanda. Esto permite reducir costes logísticos, minimizar rebajas innecesarias y aumentar la disponibilidad de productos. Además, la IA mejora la toma de decisiones basada en datos en tiempo real, algo clave        en un mercado tan dinámico como la moda.
+      
 - Importancia futura (3–5 años):
+    - En los próximos años, la IA será aún más relevante gracias a la integración con sistemas de automatización avanzada, análisis predictivo más preciso e IA generativa aplicada al diseño, marketing y                    personalización de la experiencia de cliente. Las decisiones serán cada vez más autónomas y en tiempo real, optimizando toda la cadena de suministro desde la producción hasta la venta final.
+      
 - Condiciones/limitaciones (datos, costes, regulación, ética, seguridad, empleo):
+    - El éxito depende de la calidad de los datos, la inversión tecnológica, la ciberseguridad y el cumplimiento normativo (protección de datos). También es necesario evitar sesgos en los modelos y garantizar              supervisión humana en decisiones críticas.
+      
 - Conclusión razonada:
+    - La IA no es solo una herramienta de mejora operativa, sino un factor competitivo esencial. Las empresas que integren correctamente Big Data e inteligencia artificial tendrán mayor rentabilidad, capacidad de          adaptación y ventaja estratégica sostenible en el mercado global.
+  
 
 ## 9) Fuentes oficiales (mín. 2)
-- Big Data/analítica (enlace oficial):
-- IA/técnica/modelo (enlace oficial):
+
+- **Big Data / analítica (enlace oficial):**  
+  [Amazon Web Services (AWS) – ¿Qué es Big Data?](https://aws.amazon.com/es/big-data/)
+
+- **IA / técnica / modelo (enlace oficial):**  
+  [Google Cloud – ¿Qué es el Machine Learning?](https://cloud.google.com/learn/what-is-machine-learning)
+
 
 
