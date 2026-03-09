@@ -130,8 +130,14 @@ S2 --> L2[Python]
 S3 --> A3[Optimización de rutas]
 S3 --> L3[C++]
 ```
+## 6) Riesgos y mitigación
 
-## 8) Fuentes oficiales (mín. 2)
-- Fuente 1 (sectores / aplicación IA):
-- Fuente 2 (lenguajes / ecosistema técnico):
+- **Riesgo 1:** Uso incorrecto de datos personales o problemas de privacidad.  
+- **Mitigación 1:** Aplicar normativas de protección de datos y anonimizar la información.
+
+- **Riesgo 2:** Sesgos en los algoritmos que puedan producir decisiones incorrectas.  
+- **Mitigación 2:** Entrenar los modelos con datos diversos y revisar los resultados periódicamente.
+
+---
+
 
