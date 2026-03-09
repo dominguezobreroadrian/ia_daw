@@ -140,4 +140,26 @@ S3 --> L3[C++]
 
 ---
 
+## 7) Conclusión
+
+- **Qué sectores destacan más:**  
+  Los sectores de salud, comercio electrónico y transporte destacan por el gran volumen de datos que generan y por las mejoras que la IA puede aportar.
+
+- **Qué lenguajes aparecen con más frecuencia:**  
+  Python es el lenguaje más utilizado en inteligencia artificial debido a su facilidad de uso y a su gran ecosistema de librerías.
+
+- **Qué importancia tiene esto para DAW/DAM:**  
+  Los desarrolladores web y multiplataforma pueden integrar herramientas de IA en sus aplicaciones, como chatbots, recomendadores o sistemas de análisis de datos, mejorando la funcionalidad y la experiencia del usuario.
+
+---
+
+## 8) Fuentes oficiales (mín. 2)
+
+- **Fuente 1 (sectores / aplicación IA):**  
+  Comisión Europea – Estrategia de Inteligencia Artificial  
+  https://digital-strategy.ec.europa.eu
+
+- **Fuente 2 (lenguajes / ecosistema técnico):**  
+  Documentación oficial de Python  
+  https://www.python.org
 
