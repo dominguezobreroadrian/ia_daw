@@ -42,9 +42,10 @@ flowchart LR
 ```
 
 ## 7) Riesgos
-- Riesgo 1:
-- Mitigación 1:
-- Riesgo 2:
-- Mitigación 2:
+- **Riesgo 1:** Uso indebido de datos personales  
+- **Mitigación 1:** Cumplir RGPD y anonimizar datos  
+
+- **Riesgo 2:** Recomendaciones poco precisas  
+- **Mitigación 2:** Mejorar el modelo con más datos y validación continua  
 
 ## 8) Fuente
