@@ -30,6 +30,17 @@
 
 ## 6) Diagrama
 
+```mermaid
+flowchart LR
+    A[Usuario] --> B[Web / App]
+    B --> C[Recogida de datos]
+    C --> D[Limpieza y procesamiento]
+    D --> E[Modelo de IA]
+    E --> F[Predicción]
+    F --> G[Recomendaciones]
+    G --> A
+```
+
 ## 7) Riesgos
 - Riesgo 1:
 - Mitigación 1:
