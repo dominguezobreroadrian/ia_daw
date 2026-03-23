@@ -6,8 +6,8 @@
 - **Usuario:** Clientes de una tienda online  
 
 ## 2) Datos
-- Datos:
-- Tipo minería:
+- **Datos:** Historial de compras, productos vistos, valoraciones, clics  
+- **Tipo minería:** Aprendizaje supervisado + filtrado colaborativo  
 
 ## 3) Pipeline
 - Recogida:
