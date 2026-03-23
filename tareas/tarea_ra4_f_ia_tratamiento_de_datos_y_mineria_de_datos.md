@@ -1,9 +1,9 @@
 # Práctica IA (RA4 · f)
 
 ## 1) Caso de uso
-- Tipo de aplicación:
-- Problema:
-- Usuario:
+- **Tipo de aplicación:** Sistema de recomendación  
+- **Problema:** Los usuarios no saben qué productos elegir entre muchas opciones  
+- **Usuario:** Clientes de una tienda online  
 
 ## 2) Datos
 - Datos:
