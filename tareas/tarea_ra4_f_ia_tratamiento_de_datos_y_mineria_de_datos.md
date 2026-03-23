@@ -18,9 +18,10 @@
 - **Uso:** Mostrar recomendaciones en la página principal o carrito  
 
 ## 4) Integración
-- Backend:
-- Frontend:
-- Flujo:
+- **Backend:** API en Python (por ejemplo con Flask o FastAPI) que ejecuta el modelo  
+- **Frontend:** Página web que muestra recomendaciones al usuario  
+- **Flujo:**  
+  Usuario entra → se recogen datos → backend procesa → modelo predice → frontend muestra recomendaciones  
 
 ## 5) Valor
 - Mejora:
