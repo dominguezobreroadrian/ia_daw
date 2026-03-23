@@ -24,9 +24,9 @@
   Usuario entra → se recogen datos → backend procesa → modelo predice → frontend muestra recomendaciones  
 
 ## 5) Valor
-- Mejora:
-- Sin IA:
-- Rentabilidad:
+- **Mejora:** Aumenta las ventas y mejora la experiencia del usuario  
+- **Sin IA:** Recomendaciones genéricas iguales para todos  
+- **Rentabilidad:** Incremento de ingresos y fidelización de clientes  
 
 ## 6) Diagrama
 
