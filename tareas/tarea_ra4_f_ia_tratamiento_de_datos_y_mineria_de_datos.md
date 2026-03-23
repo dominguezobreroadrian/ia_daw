@@ -49,3 +49,5 @@ flowchart LR
 - **Mitigación 2:** Mejorar el modelo con más datos y validación continua  
 
 ## 8) Fuente
+- Documentación de Machine Learning (Scikit-learn, TensorFlow)  
+- Ejemplos de sistemas de recomendación de empresas como Amazon o Netflix 
