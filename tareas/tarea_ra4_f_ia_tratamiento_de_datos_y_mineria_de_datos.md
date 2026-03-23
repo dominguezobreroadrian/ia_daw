@@ -10,12 +10,12 @@
 - **Tipo minería:** Aprendizaje supervisado + filtrado colaborativo  
 
 ## 3) Pipeline
-- Recogida:
-- Limpieza:
-- Transformación:
-- Entrenamiento:
-- Predicción:
-- Uso:
+- **Recogida:** Datos del comportamiento del usuario en la web (cookies, registros)  
+- **Limpieza:** Eliminación de datos duplicados o incompletos  
+- **Transformación:** Conversión a variables útiles (ej: productos más vistos, frecuencia de compra)  
+- **Entrenamiento:** Modelo de recomendación (ej: KNN o redes neuronales)  
+- **Predicción:** Sugerencia de productos personalizados  
+- **Uso:** Mostrar recomendaciones en la página principal o carrito  
 
 ## 4) Integración
 - Backend:
